@@ -135,12 +135,5 @@ How different classifiers (Naïve Bayes, SVM, RF) approach the problem.
 
 The power of ensemble methods in boosting accuracy.
 
-🔮 Future Improvements
-
-Add severity and duration of symptoms for better predictions.
-
-Deploy as a web app (Flask/Streamlit) for interactive use.
-
-Extend dataset for real-world clinical accuracy.
 
 💡 This project is a great demonstration of ML in healthcare applications, showing how different algorithms can be combined to build more reliable systems.
