@@ -110,8 +110,8 @@ Matplotlib, Seaborn → Visualization
 
 Clone the repository:
 
-git clone https://github.com/yourusername/disease-prediction-ml.git
-cd disease-prediction-ml
+git clone https://github.com/Durud1/disease_prediction.git
+cd disease_prediction
 
 
 Install dependencies:
